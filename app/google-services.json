@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "418473299954",
+    "firebase_url": "https://chatappclone-9aa9f.firebaseio.com",
+    "project_id": "chatappclone-9aa9f",
+    "storage_bucket": "chatappclone-9aa9f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:418473299954:android:b626c4fea8fd68ff79256b",
+        "android_client_info": {
+          "package_name": "com.malik.whatsappclone"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "418473299954-5hrcfo38thjpnojs6veorv9fu5b7p7ce.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.malik.whatsappclone",
+            "certificate_hash": "6d8d1ee15988f45c8b2940043957df7b974a46f1"
+          }
+        },
+        {
+          "client_id": "418473299954-kqjkqvj0a46snoaev9ref20c0u0r54uo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAeDF1tajT0zalAv9SfaU4Zy6NIuKUD1hE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "418473299954-kqjkqvj0a46snoaev9ref20c0u0r54uo.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
